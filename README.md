@@ -7,7 +7,6 @@ Address	: Chennai, India – 600045.
 
 Email     : dirannaren@hotmail.com     
 
-Mobile  : 9791 486 777 
 
 **OBJECTIVE**
 
