@@ -1,10 +1,16 @@
 **Resume**
 ---------------
 
-Narendiran Unnikrishnan S 	 	             
+**Narendiran Unnikrishnan S**
+
+Address	: Chennai, India – 600045. 
+
 Email     : dirannaren@hotmail.com     
 
+Mobile  : 9791 486 777 
+
 **Objective**
+
 I am seeking opportunities to apply my knowledge in complex, core, large-scale real-time projects where I would like to be a strong part of the role and involved in multiple technology stacks.
 
 **Profile Summary**
@@ -49,7 +55,7 @@ Mobile technologies (Android)
 
 Programming Language : Python, C# 
 
-Web technologies: Web : Django, Flask, Asp. Net, Asp.net MVC/Razor, Web API2, FEDERATION services, Identity Framework, Html, CSS, JavaScript, jQuery, Electron JS 
+Web technologies: Django, Flask, Asp. Net, Asp.net MVC/Razor, Web API2, FEDERATION services, Identity Framework, Html, CSS, JavaScript, jQuery, Electron JS 
 
 Socket Programming  :  Signal-R, Node WS 
 
