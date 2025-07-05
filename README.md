@@ -4,8 +4,9 @@
 ## Narendiran Unnikrishnan S
 
 Address	: Chennai, India – 600045. 
-
-Email     : dirannaren@hotmail.com     
+Home Address	: Thanjavur, India – 613001. 
+Email     : dirannaren@hotmail.com   
+Mobile : +91 9791 486 777
 
 
 **OBJECTIVE**
@@ -51,6 +52,7 @@ Mobile technologies (Android)
 
 
 **TECHNOLOGY PORTFOLIO**
+
 Programming Languages:  Python, C#, JavaScript 
 
 Core Stacks (current): Django, Flask, React, Node, Web Socket, Kafka, RabbitMQ
@@ -71,7 +73,7 @@ Security and Monitoring: SAST, DAST, SCA, Web Security
 
 Infrastructure Solutions: On-premise infrastructure, AWS, , Kubernetes  
  
-WORKSHOP/SEMINARS 
+**WORKSHOP/SEMINARS**
 Conducted web application development in ASP. Net  
 
 Conducted windows phone app development 7.8”  
@@ -80,7 +82,7 @@ Conducted Ethical hacking seminar topics on “SQL Injection, Broken Authenticat
 
  
 
-EXTRA-CURRICULAR 
+**EXTRA-CURRICULAR** 
 
 I have configured my own home networking virtual environment setup for my own purposes (File, Proxy, Database, NLB and SMTP server configuration). 
 
@@ -92,6 +94,6 @@ Working on custom monitoring tool for medium scale organizations using python op
 
  
 
-HOBBIES/INTEREST 
+**HOBBIES/INTEREST** 
 
 To learn advanced technologies, Code and Tool Based Ethical Hacking, rules and concepts behind the Networking protocols. 
