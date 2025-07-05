@@ -80,11 +80,11 @@ Infrastructure Solutions: On-premise infrastructure, AWS, , Kubernetes
  
 **WORKSHOP/SEMINARS**
 
-Conducted web application development in ASP. Net  
+Conducted web application development seminars for college students 
 
-Conducted windows phone app development 7.8”  
+Conducted windows phone app development seminar for college students   
 
-Conducted Ethical hacking seminar topics on “SQL Injection, Broken Authentication, Cookies Hijacking, R2 Forgery, Layer 7 Attacks Using custom client scripts and Dorks. 
+Conducted Ethical hacking seminar (live session) topics on “SQL Injection, Broken Authentication, Cookies Hijacking, R2 Forgery, Layer 7 Attacks Using custom client scripts and Dorks. 
 
  
 
