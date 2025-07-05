@@ -3,11 +3,11 @@
 
 ## Narendiran Unnikrishnan S
 
-Address	: Chennai, India – 600045.
+Address	: Chennai, India – 600045
 
-Home Address	: Thanjavur, India – 613001. 
+Home Address	: Thanjavur, India – 613001
 
-Email     : dirannaren@hotmail.com   
+Email     : dirannaren@hotmail.com
 
 Mobile : +91 9791 486 777
 
