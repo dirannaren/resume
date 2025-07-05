@@ -3,15 +3,19 @@
 
 ## Narendiran Unnikrishnan S
 
-Address	: Chennai, India – 600045. 
+Address	: Chennai, India – 600045.
+
 Home Address	: Thanjavur, India – 613001. 
+
 Email     : dirannaren@hotmail.com   
+
 Mobile : +91 9791 486 777
 
 
 **OBJECTIVE**
 
 I am seeking opportunities to apply my knowledge in complex, core, large-scale real-time projects where I would like to be a strong part of the role and involved in multiple technology stacks.
+
 
 **PROFILE SUMMARY**
 
@@ -61,7 +65,7 @@ Past:  Asp. Net, Asp.net MVC/Razor, Web API2, FEDERATION services, Identity Fram
 
 Windows Programming: Win32 API  
 
-Other tools:  Linux based, H-mail, Virtual box, Photoshop Cs6, Blender, Proxy, VM Ware Player 
+Other tools:  Kali Linux Tools, H-mail, Virtual box, Photoshop Cs6, Blender, Proxy, VM Ware Player 
 
 Source control:  SVN, Mercurial, Git 
 
@@ -71,9 +75,11 @@ Database:  Microsoft SQL Server, Mongo
 
 Security and Monitoring: SAST, DAST, SCA, Web Security 
 
-Infrastructure Solutions: On-premise infrastructure, AWS, , Kubernetes  
+Infrastructure Solutions: On-premise infrastructure, AWS, , Kubernetes
+
  
 **WORKSHOP/SEMINARS**
+
 Conducted web application development in ASP. Net  
 
 Conducted windows phone app development 7.8”  
