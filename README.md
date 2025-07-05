@@ -51,28 +51,27 @@ Mobile technologies (Android)
 
 
 **TECHNOLOGY PORTFOLIO**
+Programming Languages:  Python, C#, JavaScript 
 
-Programming Language : Python, C# 
+Core Stacks (current): Django, Flask, React, Node, Web Socket, Kafka, RabbitMQ
 
-Web technologies: Django, Flask, Asp. Net, Asp.net MVC/Razor, Web API2, FEDERATION services, Identity Framework, Html, CSS, JavaScript, jQuery, Electron JS 
+Past:  Asp. Net, Asp.net MVC/Razor, Web API2, FEDERATION services, Identity Framework, jQuery, Electron JS 
 
-Socket Programming  :  Signal-R, Node WS 
+Windows Programming: Win32 API  
 
-Windows Programming : Win32 API  
+Other tools:  Linux based, H-mail, Virtual box, Photoshop Cs6, Blender, Proxy, VM Ware Player 
 
-Other tools : Mono/Ubuntu, H-mail, Virtual box, Photoshop Cs6, Blender, Proxy, NLB tools 
+Source control:  SVN, Mercurial, Git 
 
-Source control : SVN, Mercurial, Git 
+Web Server:  IIS 8, Nginx 
 
-Web Server : IIS 8, Nginx 
+Database:  Microsoft SQL Server, Mongo 
 
-Database : Microsoft SQL Server, Mongo 
+Security and Monitoring: SAST, DAST, SCA, Web Security 
 
-
+Infrastructure Solutions: On-premise infrastructure, AWS, , Kubernetes  
  
-
 WORKSHOP/SEMINARS 
-
 Conducted web application development in ASP. Net  
 
 Conducted windows phone app development 7.8”  
